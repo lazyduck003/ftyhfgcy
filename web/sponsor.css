@@ -1,0 +1,1006 @@
+.global-wellness-watch-label-item {
+  height: 57px;
+  width: 238px;
+  position: relative;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-white);
+  border: 2px solid var(--color-springgreen-100);
+  box-sizing: border-box;
+  display: none;
+}
+.global-wellness-watch6 {
+  position: relative;
+  z-index: 1;
+}
+.global-wellness-watch-label1 {
+  border-radius: var(--br-8xs);
+  background-color: var(--color-white);
+  border: 2px solid var(--color-springgreen-100);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-xs) var(--padding-9xs) var(--padding-smi)
+    var(--padding-5xs);
+  white-space: nowrap;
+}
+.home5 {
+  position: relative;
+  display: inline-block;
+  min-width: 56px;
+}
+.home-container {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-7xs) 0 var(--padding-6xs);
+}
+.frame-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-6xs);
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.rectangle-3default-inner,
+.rectangle-3default2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  display: none;
+}
+.rectangle-3default-inner {
+  right: 0;
+  bottom: 0;
+  border-radius: var(--br-6xs);
+  background-color: var(--color-green);
+}
+.rectangle-3default2 {
+  z-index: 1;
+}
+.vector-parent {
+  align-self: stretch;
+  height: 2px;
+  position: relative;
+}
+.frame-parent8 {
+  width: 69px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 10px;
+  cursor: pointer;
+}
+.about4 {
+  position: relative;
+  display: inline-block;
+  min-width: 57px;
+  cursor: pointer;
+}
+.current-project-name-inner,
+.frame-parent7 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.frame-parent7 {
+  width: 207px;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.current-project-name-inner {
+  align-self: stretch;
+  justify-content: flex-end;
+}
+.current-project-name-child {
+  width: 180px;
+  height: 2px;
+  position: relative;
+  object-fit: contain;
+}
+.current-project-name {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 2px;
+}
+.project-description {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-11xs) 0 0;
+}
+.sponsor5 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  letter-spacing: -0.03em;
+  font-weight: 700;
+  font-family: inherit;
+}
+.sponsor-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-8xs) 0 var(--padding-9xs);
+}
+.frame-inner {
+  align-self: stretch;
+  height: 3px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.frame-parent9,
+.project-description-parent {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.frame-parent9 {
+  width: 180px;
+  align-items: flex-start;
+  gap: var(--gap-6xs);
+  font-size: var(--heading-size);
+  font-family: var(--heading);
+}
+.project-description-parent {
+  width: 258px;
+  align-items: flex-end;
+  gap: 82px;
+}
+.sponsor6 {
+  position: relative;
+  display: inline-block;
+  min-width: 79px;
+  cursor: pointer;
+}
+.rectangle-div {
+  height: 3px;
+  flex: 1;
+  position: relative;
+  border-radius: var(--br-6xs);
+  background-color: var(--color-green);
+}
+.rectangle-3default3 {
+  flex: 1;
+  flex-direction: row;
+}
+.money-raised-label,
+.rectangle-3default-wrapper,
+.rectangle-3default3 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.rectangle-3default-wrapper {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 var(--padding-8xs);
+}
+.money-raised-label {
+  width: 79px;
+  flex-direction: column;
+  gap: var(--gap-6xs);
+}
+.frame-parent6 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.global-wellness-watch-link {
+  width: 408px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-mini) 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+  font-family: var(--font-inter);
+}
+.global-wellness-watch-label-group {
+  width: 957px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  max-width: 100%;
+  gap: var(--gap-xl);
+}
+.current-project {
+  position: relative;
+  text-decoration: underline;
+  letter-spacing: -0.03em;
+}
+.current-project-title {
+  margin: 0;
+  position: relative;
+  font-size: var(--heading-size);
+  letter-spacing: -0.03em;
+  font-weight: 700;
+  font-family: inherit;
+  color: var(--color-black);
+  z-index: 1;
+}
+.current-project-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+  color: var(--color-mediumseagreen);
+  font-family: var(--heading);
+}
+.current-project-pic {
+  height: 415px;
+  flex: 1;
+  position: relative;
+  border-radius: 16px;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: cover;
+}
+.current-project-pic-label {
+  width: 634px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-11xs) var(--padding-2xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.total-money-icon {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.money-raised-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 364px;
+  height: 10px;
+  object-fit: cover;
+  z-index: 1;
+}
+.total-money-parent {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.social-media-label-inner {
+  align-self: stretch;
+  height: 10px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+}
+.raised {
+  font-size: var(--font-size-5xl);
+  color: #bbb;
+}
+.donation-figures {
+  height: 41px;
+  position: relative;
+  display: inline-block;
+}
+.email-phone-report-label {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+}
+.site-icon-label,
+.social-media-label {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.social-media-label {
+  flex: 1;
+  flex-direction: column;
+  gap: 9px;
+}
+.site-icon-label {
+  width: 642px;
+  flex-direction: row;
+  padding: 0 var(--padding-5xs) var(--padding-2xl);
+  box-sizing: border-box;
+  font-size: var(--font-size-13xl);
+}
+.blank-line9,
+.donations-will-fuel,
+.your-donation-fuels {
+  margin: 0;
+}
+.current-project-text-container {
+  flex: 1;
+  position: relative;
+  display: inline-block;
+  max-width: 100%;
+}
+.current-project-text-wrapper,
+.frame-parent10 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.current-project-text-wrapper {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 0 0 var(--padding-7xs);
+  font-size: var(--body-size);
+}
+.frame-parent10 {
+  width: 1067px;
+  flex-direction: column;
+  padding: 0 0 var(--padding-6xs);
+  gap: 31px;
+}
+.page-links-label-child {
+  align-self: stretch;
+  height: 1px;
+  position: relative;
+  border-top: 1px solid #d9d9d9;
+  box-sizing: border-box;
+}
+.sponsor-image-icon {
+  height: 399px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: cover;
+  min-width: 387px;
+}
+.your-help-matters {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  letter-spacing: -0.03em;
+  font-weight: 700;
+  font-family: inherit;
+  text-shadow: 0 0 4px rgba(0, 0, 0, 0.25);
+}
+.blank-line10,
+.blank-line11,
+.collaboration-opportunities-an,
+.sponsoring-daily-global {
+  margin: 0;
+}
+.why-they-should-container {
+  width: 525px;
+  position: relative;
+  font-size: var(--body-size);
+  font-family: var(--body);
+  display: inline-block;
+  max-width: 100%;
+}
+.sponsor-image-parent,
+.your-help-matters-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.your-help-matters-parent {
+  width: 559px;
+  flex-direction: column;
+  gap: var(--gap-14xl);
+  min-width: 559px;
+}
+.sponsor-image-parent {
+  flex: 1;
+  flex-direction: row;
+  gap: var(--gap-30xl);
+}
+.page-links-label-inner {
+  width: 1348px;
+  flex-direction: row;
+  padding: 0 var(--padding-53xl);
+  box-sizing: border-box;
+  font-size: var(--font-size-21xl);
+  font-family: var(--heading);
+}
+.page-links-label,
+.page-links-label-inner,
+.page-links-label-wrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.page-links-label {
+  flex: 1;
+  flex-direction: column;
+  gap: 108px;
+}
+.page-links-label-wrapper {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 0 108px 38px;
+  box-sizing: border-box;
+  font-size: 36px;
+}
+.site-icon {
+  height: 114px;
+  width: 114px;
+  position: absolute;
+  margin: 0 !important;
+  top: -57px;
+  right: 115px;
+  object-fit: contain;
+  z-index: 1;
+}
+.can-help-us,
+.frame-child1 {
+  position: relative;
+  max-width: 100%;
+}
+.frame-child1 {
+  height: 185px;
+  width: 345px;
+  border-radius: var(--br-mini);
+  background-color: var(--color-gainsboro-100);
+  display: none;
+}
+.can-help-us {
+  flex: 1;
+  display: inline-block;
+  z-index: 1;
+}
+.rectangle-parent,
+.total-money-raised {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.rectangle-parent {
+  flex: 1;
+  border-radius: var(--br-mini);
+  background-color: var(--color-gainsboro-100);
+  padding: var(--padding-64xl) var(--padding-6xs) 50px var(--padding-5xs);
+  box-sizing: border-box;
+}
+.total-money-raised {
+  width: 345px;
+  position: relative;
+}
+.site-icon1 {
+  height: 114px;
+  width: 114px;
+  position: absolute;
+  margin: 0 !important;
+  top: -57px;
+  right: 115px;
+  object-fit: contain;
+  z-index: 1;
+}
+.monthly-cost-child {
+  height: 185px;
+  width: 345px;
+  position: relative;
+  border-radius: var(--br-mini);
+  background-color: var(--color-gainsboro-100);
+  display: none;
+  max-width: 100%;
+}
+.can-help-us1 {
+  flex: 1;
+  position: relative;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 1;
+}
+.monthly-cost {
+  flex: 1;
+  border-radius: var(--br-mini);
+  background-color: var(--color-gainsboro-100);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-64xl) var(--padding-6xs) var(--padding-5xl)
+    var(--padding-5xs);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.water-glass-icon {
+  height: 66px;
+  width: 88px;
+  position: absolute;
+  margin: 0 !important;
+  top: -30px;
+  right: 72px;
+  object-fit: contain;
+  z-index: 2;
+}
+.total-money-raised1 {
+  width: 345px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+  max-width: 100%;
+}
+.vector-icon {
+  height: 1px;
+  width: 2px;
+  position: absolute;
+  margin: 0 !important;
+  top: 76px;
+  right: 170px;
+  object-fit: contain;
+  z-index: 1;
+}
+.can-help-us2,
+.frame-child2 {
+  position: relative;
+  max-width: 100%;
+}
+.frame-child2 {
+  height: 185px;
+  width: 345px;
+  border-radius: var(--br-mini);
+  background-color: var(--color-gainsboro-100);
+  display: none;
+}
+.can-help-us2 {
+  flex: 1;
+  display: inline-block;
+  z-index: 3;
+}
+.rectangle-group {
+  flex: 1;
+  border-radius: var(--br-mini);
+  background-color: var(--color-gainsboro-100);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-64xl) var(--padding-6xs) var(--padding-5xl)
+    var(--padding-5xs);
+  box-sizing: border-box;
+  max-width: 100%;
+  z-index: 2;
+}
+.site-icon2 {
+  height: 114px;
+  width: 114px;
+  position: absolute;
+  margin: 0 !important;
+  top: -57px;
+  right: 115px;
+  object-fit: contain;
+  z-index: 3;
+}
+.total-money-raised-parent,
+.vector-group {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.vector-group {
+  width: 345px;
+  justify-content: flex-start;
+  position: relative;
+}
+.total-money-raised-parent {
+  flex: 1;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.frame-wrapper3 {
+  width: 1375px;
+  flex-direction: row;
+  justify-content: flex-start;
+  padding: 0 var(--padding-16xl);
+  box-sizing: border-box;
+  text-align: center;
+}
+.frame-parent5,
+.frame-wrapper3,
+.sponsor-inner {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frame-parent5 {
+  width: 1455px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-13xl);
+}
+.sponsor-inner {
+  width: 1881px;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--body);
+}
+.slice-div,
+.sponsor-child {
+  position: relative;
+  width: 1px;
+  height: 1px;
+}
+.sponsor-child {
+  width: 6px;
+  height: 4px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.global-wellness-watch7 {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  letter-spacing: -0.03em;
+  font-weight: 700;
+  font-family: inherit;
+}
+.daily-global-watch2,
+.empowering-awareness-inspirin2 {
+  margin: 0;
+}
+.empowering-awareness-inspirin-container2 {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--body-size);
+  letter-spacing: -0.02em;
+  font-family: var(--body);
+  color: var(--color-white);
+  text-align: left;
+}
+.global-wellness-watch-parent {
+  width: 335px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-lg) 0 0;
+  box-sizing: border-box;
+  gap: var(--gap-7xl);
+  max-width: 100%;
+  font-size: var(--font-size-13xl);
+}
+.pages3 {
+  position: relative;
+  letter-spacing: -0.03em;
+  display: inline-block;
+  min-width: 52px;
+}
+.about5,
+.blank-line12,
+.blank-line13,
+.donate4,
+.home6,
+.sponsor7 {
+  margin: 0;
+}
+.home-about-sponsor-container2 {
+  position: relative;
+  font-size: var(--body-size);
+  font-family: var(--body);
+  color: var(--color-white);
+  text-align: left;
+}
+.footer-inner,
+.pages-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.pages-parent {
+  gap: var(--gap-15xl);
+}
+.footer-inner {
+  padding: var(--padding-6xs) 0 0;
+}
+.contact2 {
+  position: relative;
+  letter-spacing: -0.03em;
+  display: inline-block;
+  min-width: 68px;
+}
+.blank-line14,
+.blank-line15,
+.email2,
+.phone2,
+.report2 {
+  margin: 0;
+}
+.email-phone-report-container2 {
+  position: relative;
+  font-size: var(--body-size);
+  font-family: var(--body);
+  color: var(--color-white);
+  text-align: left;
+}
+.contact-parent,
+.footer-child {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.contact-parent {
+  gap: var(--gap-15xl);
+}
+.footer-child {
+  padding: var(--padding-6xs) var(--padding-lgi) 0 0;
+}
+.socials2 {
+  width: 58px;
+  letter-spacing: -0.03em;
+  display: inline-block;
+  min-width: 58px;
+}
+.globalwellnesswatch2,
+.socials2 {
+  position: relative;
+}
+.facebook-icon2,
+.instagram-icon2,
+.tiktok-icon2,
+.youtube-icon2 {
+  height: 37px;
+  width: 37px;
+  position: relative;
+  object-fit: cover;
+  min-height: 37px;
+}
+.facebook-icon2 {
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.globalwellnesswatch-parent,
+.socials-parent,
+.tiktok-parent {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.tiktok-parent {
+  flex-direction: row;
+  gap: var(--gap-mid-3);
+}
+.globalwellnesswatch-parent,
+.socials-parent {
+  flex-direction: column;
+}
+.globalwellnesswatch-parent {
+  gap: var(--gap-mid);
+  text-align: left;
+  font-size: var(--body-size);
+  color: var(--color-white);
+  font-family: var(--body);
+}
+.socials-parent {
+  gap: var(--gap-15xl);
+}
+.footer-inner1 {
+  width: 200px;
+  flex-direction: column;
+  padding: var(--padding-6xs) 0 0;
+}
+.footer-inner1,
+.footer1,
+.sponsor4 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.footer1 {
+  align-self: stretch;
+  background-color: var(--color-gray);
+  flex-direction: row;
+  padding: var(--padding-35xl) 192px 78px;
+  gap: var(--gap-102xl);
+  max-width: 100%;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-mediumseagreen);
+  font-family: var(--heading);
+}
+.sponsor4 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  overflow: hidden;
+  flex-direction: column;
+  padding: var(--padding-32xl) 0 0;
+  gap: 321px;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1350px) {
+  .page-links-label-inner {
+    padding-left: var(--padding-17xl);
+    padding-right: var(--padding-17xl);
+    box-sizing: border-box;
+  }
+  .page-links-label-wrapper {
+    padding-bottom: var(--padding-51xl);
+    box-sizing: border-box;
+  }
+  .footer1,
+  .total-money-raised-parent {
+    flex-wrap: wrap;
+  }
+  .footer1 {
+    gap: var(--gap-41xl);
+    justify-content: center;
+    padding-left: var(--padding-77xl);
+    padding-right: var(--padding-77xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1125px) {
+  .your-help-matters-parent {
+    flex: 1;
+    min-width: 100%;
+  }
+  .sponsor-image-parent {
+    flex-wrap: wrap;
+  }
+  .page-links-label-wrapper {
+    padding-bottom: 45px;
+    box-sizing: border-box;
+  }
+  .sponsor4 {
+    gap: 160px;
+  }
+}
+@media screen and (max-width: 800px) {
+  .sponsor5 {
+    font-size: var(--font-size-19xl);
+  }
+  .global-wellness-watch-label-group {
+    flex-wrap: wrap;
+  }
+  .current-project {
+    font-size: 29px;
+  }
+  .current-project-title {
+    font-size: var(--font-size-19xl);
+  }
+  .frame-parent10 {
+    gap: var(--gap-mini);
+  }
+  .sponsor-image-icon {
+    min-width: 100%;
+  }
+  .your-help-matters {
+    font-size: var(--font-size-13xl);
+  }
+  .your-help-matters-parent {
+    gap: var(--gap-base);
+  }
+  .sponsor-image-parent {
+    gap: var(--gap-5xl);
+  }
+  .page-links-label {
+    gap: 54px;
+  }
+  .frame-parent5 {
+    gap: var(--gap-base);
+  }
+  .global-wellness-watch7 {
+    font-size: var(--font-size-7xl);
+  }
+  .footer1 {
+    gap: var(--gap-11xl);
+    padding-left: var(--padding-29xl);
+    padding-right: var(--padding-29xl);
+    box-sizing: border-box;
+  }
+  .sponsor4 {
+    gap: 80px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .about4,
+  .home5 {
+    font-size: var(--font-size-base);
+  }
+  .sponsor5 {
+    font-size: var(--font-size-9xl);
+  }
+  .project-description-parent {
+    gap: 41px;
+  }
+  .sponsor6 {
+    font-size: var(--font-size-base);
+  }
+  .frame-parent6 {
+    flex-wrap: wrap;
+  }
+  .current-project {
+    font-size: var(--font-size-3xl);
+  }
+  .current-project-title {
+    font-size: var(--font-size-9xl);
+  }
+  .donation-figures {
+    font-size: var(--font-size-lgi);
+  }
+  .your-help-matters {
+    font-size: var(--font-size-5xl);
+  }
+  .page-links-label {
+    gap: 27px;
+  }
+  .page-links-label-wrapper {
+    padding-bottom: 29px;
+    box-sizing: border-box;
+  }
+  .can-help-us,
+  .can-help-us1,
+  .can-help-us2 {
+    font-size: var(--font-size-base);
+  }
+  .global-wellness-watch7 {
+    font-size: var(--font-size-lgi);
+  }
+  .contact2,
+  .pages3,
+  .socials2 {
+    font-size: var(--font-size-base);
+  }
+  .footer1 {
+    gap: var(--gap-mini);
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+}

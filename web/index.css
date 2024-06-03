@@ -1,0 +1,1030 @@
+.global-wellness-watch-label-child {
+  height: 57px;
+  width: 238px;
+  position: relative;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-white);
+  border: 2px solid var(--color-springgreen-100);
+  box-sizing: border-box;
+  display: none;
+}
+.global-wellness-watch {
+  position: relative;
+  z-index: 1;
+}
+.global-wellness-watch-label {
+  border-radius: var(--br-8xs);
+  background-color: var(--color-white);
+  border: 2px solid var(--color-springgreen-100);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-xs) var(--padding-9xs) var(--padding-smi)
+    var(--padding-5xs);
+  white-space: nowrap;
+}
+.home1 {
+  position: relative;
+  display: inline-block;
+  min-width: 56px;
+}
+.home-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-6xs) 0 var(--padding-7xs);
+}
+.current-page-child {
+  height: 3px;
+  flex: 1;
+  position: relative;
+  border-radius: var(--br-6xs);
+  background-color: var(--color-green);
+}
+.current-page,
+.frame-container {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.current-page {
+  align-self: stretch;
+  flex-direction: row;
+}
+.frame-container {
+  width: 76px;
+  flex-direction: column;
+  padding: 0 var(--padding-6xs) 0 0;
+  box-sizing: border-box;
+  gap: 11px;
+}
+.about,
+.sponsor {
+  position: relative;
+  display: inline-block;
+  min-width: 57px;
+  cursor: pointer;
+}
+.sponsor {
+  min-width: 79px;
+}
+.frame-group,
+.frame-wrapper {
+  display: flex;
+  align-items: flex-start;
+}
+.frame-group {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.frame-wrapper {
+  width: 358px;
+  flex-direction: column;
+  justify-content: flex-end;
+  padding: 0 0 var(--padding-9xs);
+  box-sizing: border-box;
+  max-width: 100%;
+  font-family: var(--font-inter);
+}
+.global-wellness-watch-label-parent {
+  width: 957px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: space-between;
+  max-width: 100%;
+  gap: var(--gap-xl);
+}
+.join-global-wellness,
+.small-facts-big {
+  margin: 0;
+}
+.motto {
+  position: relative;
+  font-size: inherit;
+  letter-spacing: -0.03em;
+  font-weight: 700;
+  font-family: inherit;
+  text-shadow: 0 0 4px rgba(0, 0, 0, 0.25);
+}
+.blank-line,
+.download-our-extension,
+.for-every-100,
+.motto,
+.we-will-donate {
+  margin: 0;
+}
+.summary {
+  width: 547px;
+  position: relative;
+  font-size: var(--font-size-3xl);
+  letter-spacing: 0.02em;
+  font-family: var(--body);
+  display: inline-block;
+  max-width: 100%;
+}
+.motto-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-13xl);
+  max-width: 100%;
+}
+.external-link-icon,
+.install {
+  position: relative;
+  z-index: unset;
+}
+.install {
+  height: 27px;
+  letter-spacing: 0.02em;
+  font-weight: 600;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  min-width: 77px;
+}
+.external-link-icon {
+  height: 25px;
+  width: 25px;
+  object-fit: contain;
+}
+.intallbutton,
+.intallbutton-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  box-sizing: border-box;
+}
+.intallbutton {
+  width: 304px;
+  border-radius: 12px;
+  background: linear-gradient(97.02deg, #6dfaae, #00ff75);
+  box-shadow: 0 5px 12px rgba(0, 0, 0, 0.25);
+  justify-content: flex-start;
+  padding: var(--padding-mid) 34px var(--padding-mini);
+  cursor: pointer;
+}
+.intallbutton-wrapper {
+  width: 470px;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  max-width: 100%;
+  text-align: center;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-be-vietnam);
+}
+.frame-parent2,
+.frame-wrapper1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frame-parent2 {
+  gap: var(--gap-30xl);
+}
+.frame-wrapper1 {
+  padding: 72.2px 0 0;
+  box-sizing: border-box;
+  min-width: 559px;
+}
+.screenshot-group-icon {
+  height: 100%;
+  flex: 1;
+  overflow: hidden;
+  object-fit: contain;
+  position: absolute;
+  left: 0;
+  top: 13px;
+  width: 100%;
+  transform: scale(1.046);
+}
+.wrapper-screenshot-group {
+  height: 543.6px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  min-width: 489px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.frame-parent1 {
+  width: 1498.6px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 186.3px;
+  max-width: 100%;
+}
+.frame-div {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: flex-end;
+  flex-shrink: 0;
+  font-size: var(--heading-size);
+  font-family: var(--heading);
+}
+.frame-div,
+.frame-parent,
+.home-inner {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frame-parent {
+  width: 1565.6px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 45.8px;
+}
+.home-inner {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 var(--padding-xl) 108.6px 92px;
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--body);
+}
+.background-2 {
+  height: 563px;
+  width: 1920px;
+  position: relative;
+  background-color: var(--color-mediumseagreen);
+  display: none;
+  max-width: 100%;
+}
+.woman-holding-planet {
+  width: 700px;
+  position: relative;
+  max-height: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+  max-width: 100%;
+  z-index: 1;
+}
+.changing-the-world,
+.one-fact-a {
+  margin: 0;
+}
+.motto1,
+.summary1 {
+  position: relative;
+  z-index: 1;
+}
+.motto1 {
+  margin: 0;
+  align-self: stretch;
+  font-size: inherit;
+  letter-spacing: -0.03em;
+  font-weight: 700;
+  font-family: inherit;
+  text-shadow: 0 0 4px rgba(0, 0, 0, 0.25);
+}
+.summary1 {
+  width: 478px;
+  font-size: var(--font-size-xl);
+  font-family: var(--body);
+  display: inline-block;
+  max-width: 100%;
+}
+.motto-group,
+.woman-image,
+.woman-image-inner {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.motto-group {
+  align-self: stretch;
+  flex-direction: column;
+  gap: var(--gap-14xl);
+}
+.woman-image,
+.woman-image-inner {
+  box-sizing: border-box;
+}
+.woman-image-inner {
+  width: 559px;
+  flex-direction: column;
+  padding: var(--padding-16xl) 0 0;
+  min-width: 559px;
+}
+.woman-image {
+  align-self: stretch;
+  background-color: var(--color-mediumseagreen);
+  flex-direction: row;
+  padding: 100px 151px 94px;
+  gap: 189px;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-white);
+  font-family: var(--heading);
+}
+.motto2,
+.you-tube-logo {
+  position: relative;
+  letter-spacing: -0.03em;
+}
+.motto2 {
+  align-self: stretch;
+}
+.you-tube-logo {
+  flex: 1;
+  display: inline-block;
+  min-width: 21px;
+}
+.instagram-logo {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-10xs);
+}
+.facebook-logo-child {
+  height: 79px;
+  width: 4px;
+  position: relative;
+  border-right: 4px solid var(--color-springgreen-200);
+  box-sizing: border-box;
+}
+.facebook-logo {
+  height: 75px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-3xs) 0 var(--padding-smi);
+  box-sizing: border-box;
+}
+.global-wellness-watch1 {
+  align-self: stretch;
+  position: relative;
+  letter-spacing: -0.03em;
+  display: inline-block;
+  min-width: 27px;
+}
+.tik-tok-logo {
+  width: 27px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 3.5px;
+}
+.download-our-extension1 {
+  position: relative;
+  letter-spacing: -0.03em;
+  font-weight: 500;
+}
+.just-click-here {
+  position: relative;
+  font-size: var(--body-size);
+  font-family: var(--body);
+  color: var(--color-dimgray);
+  text-align: center;
+  display: inline-block;
+  min-width: 127px;
+}
+.download-our-extension-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-8xs);
+}
+.share-it-to {
+  position: relative;
+  letter-spacing: -0.03em;
+  font-weight: 500;
+}
+.frame-parent4,
+.frame-wrapper2,
+.tik-tok-logo-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent4 {
+  flex: 1;
+  flex-direction: column;
+  gap: 57px;
+  min-width: 183px;
+  text-align: left;
+  font-size: var(--font-size-9xl);
+}
+.frame-wrapper2,
+.tik-tok-logo-parent {
+  flex-direction: row;
+  max-width: 100%;
+}
+.tik-tok-logo-parent {
+  flex: 1;
+  flex-wrap: wrap;
+  gap: var(--gap-13xl);
+  flex-shrink: 0;
+  debug_commit: 1de1738;
+}
+.frame-wrapper2 {
+  align-self: stretch;
+  padding: 0 0 0 var(--padding-9xs);
+  box-sizing: border-box;
+}
+.follow-us {
+  height: 79px;
+  width: 4px;
+  position: relative;
+  border-right: 4px solid var(--color-springgreen-200);
+  box-sizing: border-box;
+}
+.or-two {
+  position: relative;
+  display: inline-block;
+  min-width: 63px;
+}
+.global-wellness-watch-contact {
+  height: 75px;
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  flex-shrink: 0;
+  debug_commit: 1de1738;
+  gap: var(--gap-xl);
+}
+.global-wellness-watch-contact-wrapper {
+  width: 143px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-mid);
+  box-sizing: border-box;
+  margin-top: -0.5px;
+  font-size: var(--body-size);
+  color: var(--color-dimgray);
+  font-family: var(--body);
+}
+.follow-us-on,
+.social-media {
+  position: relative;
+  letter-spacing: -0.03em;
+}
+.social-media {
+  width: 27px;
+  display: inline-block;
+  flex-shrink: 0;
+  min-width: 27px;
+}
+.follow-us-on {
+  font-size: var(--font-size-9xl);
+  font-weight: 500;
+  text-align: left;
+}
+.call-to-action,
+.footer {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.call-to-action {
+  gap: var(--gap-13xl);
+  flex-shrink: 0;
+  debug_commit: 1de1738;
+}
+.footer {
+  padding: 0 var(--padding-9xs);
+  margin-top: -0.5px;
+}
+.pages,
+.pages-child {
+  box-sizing: border-box;
+}
+.pages-child {
+  width: 4px;
+  height: 79px;
+  position: relative;
+  border-right: 4px solid var(--color-springgreen-200);
+}
+.pages {
+  height: 83px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-5xs) 0 0;
+}
+.globalwellnesswatch-on-all {
+  flex: 1;
+  position: relative;
+}
+.global-wellness-watch2,
+.header {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.global-wellness-watch2 {
+  flex: 1;
+  gap: 42px;
+  flex-shrink: 0;
+  debug_commit: 1de1738;
+}
+.header {
+  width: 334px;
+  padding: 0 var(--padding-mid);
+  box-sizing: border-box;
+  max-width: 100%;
+  margin-top: -0.5px;
+  text-align: left;
+  font-size: var(--body-size);
+  color: var(--color-dimgray);
+  font-family: var(--body);
+}
+.charity-donation,
+.we-donate-to {
+  position: relative;
+  letter-spacing: -0.03em;
+}
+.charity-donation {
+  width: 34px;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.we-donate-to {
+  font-weight: 500;
+}
+.donated-for-every {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--body-size);
+  font-family: var(--body);
+  color: var(--color-dimgray);
+}
+.email-phone-report {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--gap-8xs);
+  text-align: left;
+  font-size: var(--font-size-9xl);
+}
+.email-phone-report,
+.frame-parent3,
+.share {
+  justify-content: flex-start;
+}
+.share {
+  width: 317px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 29px;
+  flex-shrink: 0;
+  debug_commit: 1de1738;
+  margin-top: -0.5px;
+}
+.frame-parent3 {
+  width: 345px;
+  flex-direction: column;
+  font-size: var(--font-size-13xl);
+}
+.frame-parent3,
+.home-child,
+.motto-container {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.motto-container {
+  width: 484px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 37px;
+}
+.home-child {
+  width: 1228px;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 var(--padding-xl) 133px;
+  box-sizing: border-box;
+}
+.footer-bg {
+  height: 328px;
+  width: 1920px;
+  position: relative;
+  background-color: var(--color-gray);
+  display: none;
+  max-width: 100%;
+}
+.global-wellness-watch3 {
+  align-self: stretch;
+  position: relative;
+  letter-spacing: -0.03em;
+  z-index: 1;
+}
+.daily-global-watch,
+.empowering-awareness-inspirin {
+  margin: 0;
+}
+.empowering-awareness-inspirin-container {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--body-size);
+  letter-spacing: -0.02em;
+  font-family: var(--body);
+  color: var(--color-white);
+  text-align: left;
+  z-index: 1;
+}
+.home-about-sponsor {
+  width: 335px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-lg) 0 0;
+  box-sizing: border-box;
+  gap: var(--gap-7xl);
+  max-width: 100%;
+  font-size: var(--font-size-13xl);
+}
+.pages1 {
+  position: relative;
+  letter-spacing: -0.03em;
+  display: inline-block;
+  min-width: 52px;
+  z-index: 1;
+}
+.about1,
+.blank-line1,
+.blank-line2,
+.donate,
+.home2,
+.sponsor1 {
+  margin: 0;
+}
+.home-about-sponsor-container {
+  position: relative;
+  font-size: var(--body-size);
+  font-family: var(--body);
+  color: var(--color-white);
+  text-align: left;
+  z-index: 1;
+}
+.about-sponsor,
+.menu {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.about-sponsor {
+  gap: var(--gap-15xl);
+}
+.menu {
+  padding: var(--padding-6xs) 0 0;
+}
+.contact {
+  position: relative;
+  letter-spacing: -0.03em;
+  display: inline-block;
+  min-width: 68px;
+  z-index: 1;
+}
+.blank-line3,
+.blank-line4,
+.email,
+.phone,
+.report {
+  margin: 0;
+}
+.email-phone-report-container {
+  position: relative;
+  font-size: var(--body-size);
+  font-family: var(--body);
+  color: var(--color-white);
+  text-align: left;
+  z-index: 1;
+}
+.contact-us,
+.email-phone {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.email-phone {
+  gap: var(--gap-15xl);
+}
+.contact-us {
+  padding: var(--padding-6xs) var(--padding-lgi) 0 0;
+}
+.socials {
+  width: 58px;
+  letter-spacing: -0.03em;
+  display: inline-block;
+  min-width: 58px;
+}
+.globalwellnesswatch,
+.socials {
+  position: relative;
+  z-index: 1;
+}
+.facebook-icon,
+.instagram-icon,
+.tiktok-icon,
+.youtube-icon {
+  height: 37px;
+  width: 37px;
+  position: relative;
+  object-fit: cover;
+  min-height: 37px;
+  z-index: 1;
+}
+.facebook-icon {
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.tik-tok {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-mid-3);
+}
+.instagram {
+  align-self: stretch;
+  flex-direction: column;
+  gap: var(--gap-mid);
+  text-align: left;
+  font-size: var(--body-size);
+  color: var(--color-white);
+  font-family: var(--body);
+}
+.email-link,
+.home,
+.instagram,
+.page-header,
+.phone-number {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.phone-number {
+  align-self: stretch;
+  flex-direction: column;
+  gap: var(--gap-15xl);
+}
+.email-link,
+.home,
+.page-header {
+  box-sizing: border-box;
+}
+.email-link {
+  width: 200px;
+  flex-direction: column;
+  padding: var(--padding-6xs) 0 0;
+}
+.home,
+.page-header {
+  text-align: center;
+  font-family: var(--heading);
+}
+.page-header {
+  align-self: stretch;
+  background-color: var(--color-gray);
+  flex-direction: row;
+  padding: var(--padding-34xl) var(--padding-237xl) var(--padding-53xl);
+  gap: var(--gap-102xl);
+  max-width: 100%;
+  font-size: var(--font-size-xl);
+  color: var(--color-mediumseagreen);
+}
+.home {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  overflow: hidden;
+  flex-direction: column;
+  padding: var(--padding-32xl) 0 var(--padding-35xl);
+  gap: var(--gap-72xl);
+  line-height: normal;
+  letter-spacing: normal;
+  font-size: var(--font-size-21xl);
+  color: var(--color-black);
+}
+@media screen and (max-width: 1650px) {
+  .woman-holding-planet,
+  .woman-image-inner {
+    flex: 1;
+  }
+  .page-header,
+  .woman-image {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+}
+@media screen and (max-width: 1300px) {
+  .frame-wrapper1 {
+    flex: 1;
+  }
+  .frame-parent1 {
+    flex-wrap: wrap;
+    gap: 93px;
+  }
+  .home-inner {
+    padding-left: 46px;
+    box-sizing: border-box;
+  }
+  .woman-image-inner {
+    min-width: 100%;
+  }
+  .woman-image {
+    gap: 94px;
+    padding-left: var(--padding-56xl);
+    padding-right: var(--padding-56xl);
+    box-sizing: border-box;
+  }
+  .page-header {
+    gap: var(--gap-41xl);
+    padding-left: var(--padding-109xl);
+    padding-right: var(--padding-109xl);
+    box-sizing: border-box;
+  }
+  .home {
+    gap: var(--gap-26xl);
+  }
+}
+@media screen and (max-width: 900px) {
+  .global-wellness-watch-label-parent {
+    flex-wrap: wrap;
+  }
+  .motto {
+    font-size: var(--font-size-19xl);
+  }
+  .motto-parent {
+    gap: var(--gap-base);
+  }
+  .frame-parent2 {
+    gap: var(--gap-5xl);
+  }
+  .frame-wrapper1,
+  .screenshot-group-icon {
+    min-width: 100%;
+  }
+  .frame-parent1 {
+    gap: var(--gap-28xl);
+  }
+  .frame-parent {
+    gap: var(--gap-4xl);
+  }
+  .home-inner {
+    padding-left: 23px;
+    padding-bottom: 71px;
+    box-sizing: border-box;
+  }
+  .motto1 {
+    font-size: var(--font-size-13xl);
+  }
+  .motto-group {
+    gap: var(--gap-base);
+  }
+  .woman-image {
+    gap: var(--gap-28xl);
+    padding: 65px 37px 61px;
+    box-sizing: border-box;
+  }
+  .motto2 {
+    font-size: var(--font-size-13xl);
+  }
+  .charity-donation,
+  .global-wellness-watch1,
+  .social-media,
+  .you-tube-logo {
+    font-size: var(--font-size-7xl);
+  }
+  .motto-container {
+    gap: 18px;
+  }
+  .home-child {
+    padding-bottom: 86px;
+    box-sizing: border-box;
+  }
+  .global-wellness-watch3 {
+    font-size: var(--font-size-7xl);
+  }
+  .page-header {
+    gap: var(--gap-11xl);
+    padding-left: var(--padding-45xl);
+    padding-right: var(--padding-45xl);
+    box-sizing: border-box;
+  }
+  .home {
+    gap: var(--gap-4xl);
+  }
+}
+@media screen and (max-width: 450px) {
+  .about,
+  .home1,
+  .sponsor {
+    font-size: var(--font-size-base);
+  }
+  .frame-group {
+    flex-wrap: wrap;
+  }
+  .motto {
+    font-size: var(--font-size-9xl);
+  }
+  .summary {
+    font-size: var(--body-size);
+  }
+  .install {
+    font-size: var(--font-size-lgi);
+  }
+  .frame-wrapper1 {
+    padding-top: 47px;
+    box-sizing: border-box;
+  }
+  .frame-parent1 {
+    gap: var(--gap-4xl);
+  }
+  .motto1 {
+    font-size: var(--font-size-5xl);
+  }
+  .summary1 {
+    font-size: var(--font-size-base);
+  }
+  .woman-image {
+    gap: var(--gap-5xl);
+  }
+  .motto2 {
+    font-size: var(--font-size-5xl);
+  }
+  .global-wellness-watch1,
+  .you-tube-logo {
+    font-size: var(--font-size-lgi);
+  }
+  .download-our-extension1,
+  .share-it-to {
+    font-size: var(--font-size-3xl);
+  }
+  .frame-parent4 {
+    gap: 28px;
+  }
+  .tik-tok-logo-parent {
+    gap: var(--gap-base);
+  }
+  .social-media {
+    font-size: var(--font-size-lgi);
+  }
+  .follow-us-on {
+    font-size: var(--font-size-3xl);
+  }
+  .call-to-action {
+    gap: var(--gap-base);
+  }
+  .global-wellness-watch2 {
+    gap: 21px;
+  }
+  .charity-donation {
+    font-size: var(--font-size-lgi);
+  }
+  .we-donate-to {
+    font-size: var(--font-size-3xl);
+  }
+  .global-wellness-watch3 {
+    font-size: var(--font-size-lgi);
+  }
+  .contact,
+  .pages1,
+  .socials {
+    font-size: var(--font-size-base);
+  }
+  .page-header {
+    gap: var(--gap-mini);
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+}
